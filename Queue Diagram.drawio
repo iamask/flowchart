@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T12:09:55.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="d5dE2jySH4yGJqyOdG_J" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T12:50:48.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Wrw35YNPByVFU60saOmq" version="21.6.6" type="github">
   <diagram name="Page-1" id="BzcRRVkOfnm3Q0xJU0LJ">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="lkacW6wyNZalX4SAkr7a-1" value="GET request: send header details to R2 as log&lt;br&gt;URL :&amp;nbsp;&lt;a href=&quot;https://requesttoqueue.itheask.workers.dev/&quot;&gt;requesttoqueue.itheask.workers.dev&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5" y="453" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lkacW6wyNZalX4SAkr7a-2" value="wrangler tail or logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="438" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
