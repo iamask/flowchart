@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-26T03:35:40.689Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="YcmIPmuUdb-sYTSyrRcB" version="21.6.3" type="github">
+<mxfile modified="2023-08-23T08:28:22.360Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1-UfcQhxY48SqPDzBQqk" version="21.6.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -84,11 +84,14 @@
         <mxCell id="p3lwNF4gQqKQJsj3CQe5-24" value="&lt;b&gt;&lt;i&gt;SERVICE BINDINGS&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="48" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9WisTCSaxYNtS2KmnLE9-1" value="if auth.response = 201 &amp;gt; render to pages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="9WisTCSaxYNtS2KmnLE9-1" value="if auth.response = 201 &amp;gt; render to pages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="455" y="344" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9WisTCSaxYNtS2KmnLE9-4" value="if auth.response = 200 &amp;gt; render to calc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="9WisTCSaxYNtS2KmnLE9-4" value="if auth.response = 200 &amp;gt; render to calc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="260.5" y="530" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDcvAsRat2pwkcKocq8q-1" value="URL :&amp;nbsp;https://gateway.zxc.co.in?x=14&amp;amp;y=44&lt;br&gt;with token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="753" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
