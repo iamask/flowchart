@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T03:55:34.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="n_mFrKVmn_67GGC1TUEf" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T04:38:10.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="5ltLLPBHwlj6txgPk1Uw" version="22.0.4" type="github">
   <diagram name="Page-1" id="BzcRRVkOfnm3Q0xJU0LJ">
-    <mxGraphModel dx="2901" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,8 +79,8 @@
         <mxCell id="lkacW6wyNZalX4SAkr7a-2" value="wrangler tail or logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="438" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFL1mxOPTIcLD58-O4hR-1" value="&lt;b&gt;Note&lt;/b&gt;: Cloudflare Pub/sub (using MQTT)&amp;nbsp; can be used to broadcast messages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="810" width="440" height="30" as="geometry" />
+        <mxCell id="FFL1mxOPTIcLD58-O4hR-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Note&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Send and receive messages with guaranteed delivery and no charges for egress bandwidth.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cloudflare Pub/sub (using MQTT)&amp;nbsp; can be used to broadcast messages&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="750" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
